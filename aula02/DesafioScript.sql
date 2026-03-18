@@ -108,6 +108,3 @@ group by idade;
 select animais.nome, espécie, tutor.nome, telefone
 from animais
 inner join tutor on id_tutor = tutor.id;
-
-
-select * from desafio.animais
