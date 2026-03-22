@@ -53,7 +53,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 44,Feminino,3.0,Yoga,88.3,264.9,176.71,Sim,33.0,20.8,2024-09-04,Ativa
 24,Masculino,5.0,CrossFit,72.3,361.5,234.14,Sim,27.4,18.4,2021-09-08,Ativa
 28,Feminino,3.0,Cardio,115.2,345.6,82.98,Sim,29.8,36.2,2025-04-01,Ativa
-52,Feminino,6.0,Natacao,114.2,685.2,186.69,Não,36.9,28.1,2020-11-24,Ativa
+52,Feminino,6.0,Natação,114.2,685.2,186.69,Não,36.9,28.1,2020-11-24,Ativa
 33,Feminino,4.0,Natação,114.8,459.2,58.5,Não,28.2,39.6,2023-05-19,Ativa
 38,Masculino,4.0,Cardio,26.9,107.6,67.17,Não,34.7,34.1,2021-04-02,Ativa
 28,Feminino,6.0,Futebol,116.1,696.6,175.74,Sim,19.6,27.9,2023-09-20,Ativa
@@ -116,7 +116,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 45,Outro,0.0,CrossFit,88.5,0.0,86.94,Sim,29.6,27.8,2023-04-14,Sedentária
 43,Feminino,2.0,Musculação,31.9,63.8,54.78,Não,21.7,39.6,2021-08-14,Ativa
 37,Outro,4.0,Futebol,21.8,87.2,292.44,Não,30.6,26.0,2023-03-05,Ativa
-47,Feminino,1.0,Soccer,81.0,81.0,133.92,Não,13.4,10.8,2020-05-28,Ativa
+47,Feminino,1.0,Futebol,81.0,81.0,133.92,Não,13.4,10.8,2020-05-28,Ativa
 18,Feminino,4.0,Yoga,34.6,138.4,211.34,Não,19.0,11.6,2022-05-24,Ativa
 33,Masculino,5.0,CrossFit,23.7,118.5,107.99,Não,37.7,21.4,2024-02-22,Ativa
 44,Masculino,5.0,Cardio,51.7,258.5,252.38,Não,36.2,24.6,2024-04-22,Ativa
@@ -284,7 +284,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 51,Outro,4.0,Futebol,32.6,203.5,240.89,Não,27.3,36.5,2020-12-30,Sedentária
 22,Feminino,0.0,Musculação,37.6,0.0,188.4,Sim,23.3,12.3,2023-07-06,Sedentária
 41,Outro,4.0,Futebol,45.3,181.2,282.12,Sim,31.1,29.7,2023-03-17,Ativa
-22,Feminino,1.0,Fut,64.7,64.7,250.65,Não,32.2,39.7,2025-02-01,Ativa
+22,Feminino,1.0,Futebol,64.7,64.7,250.65,Não,32.2,39.7,2025-02-01,Ativa
 40,Masculino,3.0,Cardio,100.1,300.3,193.95,Não,13.6,38.7,2020-10-13,Ativa
 30,Outro,0.0,CrossFit,51.8,0.0,131.04,Não,31.7,34.7,2024-09-09,Sedentária
 37,Masculino,6.0,Futebol,99.6,597.6,139.99,Não,25.3,12.2,2025-08-23,Ativa
@@ -324,7 +324,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 59,Masculino,4.0,Cardio,78.1,312.4,112.84,Sim,27.5,39.0,2024-03-29,Ativa
 60,Outro,6.0,Natação,107.6,645.6,280.65,Sim,10.3,37.1,2023-01-03,Ativa
 61,Feminino,4.0,Cardio,77.5,310.0,94.6,Sim,38.1,27.3,2024-04-29,Ativa
-45,Masculino,4.0,Natacao,58.6,234.4,153.49,Sim,28.3,23.3,2022-07-26,Ativa
+45,Masculino,4.0,Natação,58.6,234.4,153.49,Sim,28.3,23.3,2022-07-26,Ativa
 54,Masculino,2.0,Futebol,29.2,58.4,268.56,Sim,11.6,29.1,2022-02-23,Ativa
 40,Masculino,7.0,Cardio,72.7,508.9,95.03,Não,34.3,22.9,2023-07-11,Ativa
 35,Masculino,4.0,Cardio,58.6,234.4,266.8,Não,19.6,17.1,2020-10-26,Ativa
@@ -349,7 +349,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 59,Masculino,4.0,Musculação,91.3,203.5,99.3,Não,23.5,33.7,2025-04-10,Sedentária
 48,Masculino,0.0,Futebol,37.8,0.0,207.18,Sim,19.3,19.3,2022-08-30,Sedentária
 40,Masculino,2.0,Futebol,79.4,158.8,96.77,Sim,17.6,29.2,2022-08-30,Ativa
-34,Outro,3.0,Fut,105.8,317.4,220.18,Não,24.7,28.2,2025-08-22,Ativa
+34,Outro,3.0,Futebol,105.8,317.4,220.18,Não,24.7,28.2,2025-08-22,Ativa
 50,Feminino,2.0,Natação,86.4,172.8,181.14,Não,39.6,18.1,2021-10-12,Ativa
 62,Masculino,3.0,Yoga,52.8,158.4,215.53,Não,37.3,16.4,2022-02-05,Ativa
 42,Feminino,1.0,Yoga,36.7,36.7,73.21,Sim,30.6,38.7,2022-03-17,Ativa
@@ -370,7 +370,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 27,Feminino,2.0,CrossFit,80.8,161.6,156.16,Não,26.7,35.4,2020-07-31,Ativa
 25,Outro,7.0,Musculação,39.4,275.8,277.95,Sim,14.0,27.0,2024-08-16,Ativa
 62,Masculino,5.0,Cardio,87.8,439.0,242.24,Não,27.5,35.8,2025-06-12,Ativa
-64,Feminino,1.0,Swimming,89.3,89.3,260.35,Não,36.2,35.2,2023-08-29,Ativa
+64,Feminino,1.0,Natação,89.3,89.3,260.35,Não,36.2,35.2,2023-08-29,Ativa
 23,Feminino,4.0,Musculação,56.5,226.0,54.64,Sim,25.3,28.3,2025-02-19,Ativa
 52,Feminino,1.0,Yoga,113.3,113.3,242.75,Não,10.5,10.8,2020-07-11,Ativa
 21,Masculino,4.0,Cardio,78.0,312.0,234.91,Sim,13.0,26.7,2023-11-25,Ativa
@@ -416,7 +416,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 44,Feminino,4.0,Futebol,74.1,296.4,71.54,Não,30.6,13.3,2024-10-03,Ativa
 23,Outro,0.0,Musculação,61.5,0.0,225.59,Não,21.3,29.3,2020-11-29,Sedentária
 41,Outro,5.0,Musculação,75.8,379.0,131.03,Sim,26.4,15.8,2022-02-28,Ativa
-19,Outro,0.0,Swimming,25.0,0.0,169.4,Sim,20.8,36.9,2023-01-20,Sedentária
+19,Outro,0.0,Natação,25.0,0.0,169.4,Sim,20.8,36.9,2023-01-20,Sedentária
 44,Feminino,5.0,Natação,20.9,104.5,107.01,Sim,25.0,12.5,2020-07-27,Ativa
 18,Feminino,5.0,Futebol,95.2,476.0,68.11,Não,23.8,35.9,2021-02-01,Ativa
 43,Masculino,2.0,CrossFit,49.7,99.4,236.46,Sim,25.9,30.3,2022-07-24,Ativa
@@ -467,7 +467,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 34,Masculino,1.0,Musculação,27.9,27.9,135.5,Não,17.3,12.9,2023-08-23,Ativa
 43,Masculino,5.0,Cardio,40.7,203.5,99.92,Sim,29.2,38.6,2024-11-19,Ativa
 54,Masculino,0.0,CrossFit,92.6,0.0,74.3,Sim,21.8,27.4,2024-12-31,Sedentária
-31,Masculino,2.0,Fut,38.4,76.8,133.72,Sim,24.9,15.7,2022-10-17,Ativa
+31,Masculino,2.0,Futebol,38.4,76.8,133.72,Sim,24.9,15.7,2022-10-17,Ativa
 47,Outro,5.0,Futebol,70.55,203.5,206.18,Sim,26.6,31.8,2025-06-14,Ativa
 62,Masculino,2.0,Musculação,95.4,190.8,99.39,Não,37.2,12.0,2023-09-26,Ativa
 47,Outro,2.0,Futebol,102.6,205.2,77.29,Não,10.2,36.6,2020-07-13,Ativa
@@ -493,7 +493,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 37,Masculino,2.0,Futebol,111.2,222.4,115.03,Sim,11.3,20.7,2020-06-24,Ativa
 44,Masculino,6.0,Yoga,38.8,232.8,199.17,Não,18.4,25.6,2024-04-11,Ativa
 59,Outro,6.0,Yoga,119.0,714.0,140.94,Sim,37.4,26.1,2022-01-28,Ativa
-47,Outro,5.0,Swimming,73.7,368.5,155.2,Sim,25.4,11.0,2021-08-30,Ativa
+47,Outro,5.0,Natação,73.7,368.5,155.2,Sim,25.4,11.0,2021-08-30,Ativa
 42,Masculino,5.0,Musculação,53.0,265.0,87.52,Não,34.9,36.4,2022-04-02,Ativa
 26,Feminino,5.0,CrossFit,70.3,351.5,264.75,Não,39.0,38.0,2023-06-21,Ativa
 23,Feminino,1.0,Musculação,39.1,39.1,119.62,Sim,25.3,36.1,2023-10-08,Ativa
@@ -614,8 +614,8 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 48,Feminino,7.0,Musculação,98.0,686.0,216.18,Sim,27.1,16.8,2020-08-12,Ativa
 40,Feminino,6.0,Cardio,47.2,283.2,203.66,Não,16.2,13.4,2021-02-10,Ativa
 49,Outro,3.0,CrossFit,46.8,140.4,149.32,Não,12.9,28.5,2024-05-26,Ativa
-21,Feminino,2.0,Swimming,25.3,50.6,88.56,Não,29.1,13.1,2023-05-20,Ativa
-31,Masculino,1.0,Fut,80.2,80.2,272.24,Não,30.5,33.4,2024-10-05,Ativa
+21,Feminino,2.0,Natação,25.3,50.6,88.56,Não,29.1,13.1,2023-05-20,Ativa
+31,Masculino,1.0,Futebol,80.2,80.2,272.24,Não,30.5,33.4,2024-10-05,Ativa
 21,Feminino,7.0,Natação,42.6,298.2,154.81,Sim,39.2,23.7,2023-01-24,Ativa
 25,Outro,5.0,Musculação,93.9,469.5,296.32,Não,14.1,27.1,2020-10-01,Ativa
 43,Feminino,4.0,Yoga,98.2,203.5,86.52,Não,12.2,19.4,2021-05-27,Sedentária
@@ -639,7 +639,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 35,Outro,4.0,CrossFit,109.4,437.6,58.7,Não,18.7,30.3,2024-09-12,Ativa
 35,Outro,0.0,Cardio,93.7,0.0,279.53,Sim,20.8,38.7,2022-01-18,Sedentária
 29,Feminino,6.0,Futebol,104.2,625.2,163.0,Sim,30.4,17.9,2023-09-18,Ativa
-25,Masculino,2.0,Natacao,35.0,70.0,260.98,Não,20.5,31.9,2022-10-23,Ativa
+25,Masculino,2.0,Natação,35.0,70.0,260.98,Não,20.5,31.9,2022-10-23,Ativa
 58,Feminino,0.0,Yoga,60.6,0.0,289.46,Sim,10.4,10.2,2022-03-03,Sedentária
 19,Feminino,5.0,Cardio,87.6,438.0,239.12,Não,37.4,30.1,2020-10-10,Ativa
 54,Masculino,7.0,Yoga,57.5,402.5,289.14,Não,23.5,10.5,2025-06-21,Ativa
@@ -702,7 +702,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 37,Outro,2.0,Natação,106.1,212.2,177.52,Sim,24.4,35.5,2021-04-13,Ativa
 25,Outro,2.0,Natação,28.3,56.6,126.97,Sim,26.0,15.0,2025-01-31,Ativa
 60,Feminino,3.0,Natação,90.9,272.7,202.69,Sim,29.6,26.3,2023-06-20,Ativa
-46,Outro,0.0,Fut,72.4,0.0,227.66,Não,29.9,34.9,2022-11-11,Sedentária
+46,Outro,0.0,Futebol,72.4,0.0,227.66,Não,29.9,34.9,2022-11-11,Sedentária
 24,Masculino,7.0,Cardio,90.3,632.1,102.54,Sim,36.1,13.7,2024-12-30,Ativa
 27,Outro,4.0,Futebol,65.5,262.0,52.93,Não,28.6,25.3,2022-09-22,Ativa
 21,Masculino,6.0,Futebol,24.8,148.8,175.96,Sim,24.0,25.2,2021-06-23,Ativa
@@ -747,7 +747,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 49,Outro,5.0,Yoga,26.1,130.5,256.08,Sim,19.7,20.7,2023-07-14,Ativa
 33,Feminino,6.0,Futebol,47.0,282.0,180.0,Sim,19.9,18.1,2022-11-21,Ativa
 62,Outro,6.0,Cardio,91.3,547.8,81.74,Sim,37.0,25.2,2025-04-30,Ativa
-42,Masculino,7.0,Fut,62.6,438.2,55.35,Não,39.9,31.6,2021-12-15,Ativa
+42,Masculino,7.0,Futebol,62.6,438.2,55.35,Não,39.9,31.6,2021-12-15,Ativa
 23,Masculino,3.0,Yoga,114.5,343.5,231.33,Não,29.1,18.6,2022-07-11,Ativa
 59,Masculino,1.0,Yoga,70.55,203.5,118.65,Não,11.5,33.7,2023-06-06,Ativa
 24,Masculino,5.0,Natação,70.55,203.5,283.58,Sim,24.8,35.1,2020-05-11,Ativa
@@ -768,7 +768,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 55,Outro,2.0,Musculação,58.8,117.6,286.4,Sim,35.4,21.4,2024-08-10,Ativa
 58,Outro,4.0,CrossFit,104.0,203.5,153.81,Não,37.9,17.1,2021-12-04,Sedentária
 34,Feminino,2.0,Natação,73.8,147.6,144.22,Não,21.0,18.8,2020-07-09,Ativa
-55,Masculino,2.0,Soccer,46.0,92.0,205.2,Não,25.3,17.7,2024-10-26,Ativa
+55,Masculino,2.0,Futebol,46.0,92.0,205.2,Não,25.3,17.7,2024-10-26,Ativa
 32,Feminino,7.0,CrossFit,46.0,322.0,227.61,Sim,14.3,37.3,2024-07-26,Ativa
 22,Outro,3.0,Yoga,97.6,292.8,98.42,Sim,15.7,32.4,2020-10-13,Ativa
 22,Feminino,5.0,Cardio,28.3,141.5,196.45,Não,26.2,39.1,2024-07-21,Ativa
@@ -830,7 +830,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 20,Feminino,3.0,Natação,46.6,139.8,189.81,Sim,13.4,26.7,2025-07-28,Ativa
 43,Masculino,2.0,Futebol,20.6,41.2,248.25,Não,14.9,18.7,2020-08-19,Ativa
 60,Feminino,2.0,Natação,70.55,203.5,103.14,Não,22.3,23.8,2025-05-22,Ativa
-33,Feminino,4.0,Fut,53.6,214.4,272.3,Não,39.2,39.0,2024-01-24,Ativa
+33,Feminino,4.0,Futebol,53.6,214.4,272.3,Não,39.2,39.0,2024-01-24,Ativa
 51,Outro,1.0,Futebol,25.4,25.4,122.22,Sim,24.8,21.5,2021-07-28,Ativa
 48,Outro,2.0,Yoga,106.0,212.0,143.47,Sim,36.7,27.4,2022-12-05,Ativa
 38,Masculino,4.0,Natação,87.7,203.5,226.9,Sim,13.8,38.9,2020-04-04,Sedentária
@@ -868,7 +868,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 36,Masculino,7.0,Yoga,109.7,767.9,91.36,Sim,39.3,20.3,2022-09-15,Ativa
 25,Feminino,1.0,Cardio,20.4,20.4,156.17,Sim,20.7,12.5,2020-01-15,Ativa
 61,Outro,2.0,Futebol,45.2,90.4,216.3,Sim,20.0,21.9,2021-05-26,Ativa
-39,Outro,0.0,Soccer,85.9,0.0,265.78,Não,35.2,31.5,2020-01-14,Sedentária
+39,Outro,0.0,Futebol,85.9,0.0,265.78,Não,35.2,31.5,2020-01-14,Sedentária
 37,Outro,4.0,Yoga,22.9,91.6,152.56,Não,12.7,26.4,2022-04-04,Ativa
 23,Outro,6.0,CrossFit,58.2,349.2,52.14,Sim,17.8,20.6,2021-02-12,Ativa
 47,Feminino,4.0,Yoga,53.7,214.8,192.85,Não,21.6,14.3,2022-02-04,Ativa
@@ -903,22 +903,22 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 62,Feminino,3.0,Yoga,91.6,274.8,107.98,Não,14.4,27.6,2023-11-29,Ativa
 49,Feminino,2.0,Cardio,85.5,171.0,208.73,Não,27.5,27.6,2024-12-16,Ativa
 18,Masculino,0.0,Cardio,33.7,0.0,70.25,Não,35.8,31.9,2023-11-07,Sedentária
-50,Outro,2.0,Soccer,82.3,164.6,234.49,Sim,27.3,17.5,2023-05-05,Ativa
+50,Outro,2.0,Futebol,82.3,164.6,234.49,Sim,27.3,17.5,2023-05-05,Ativa
 21,Masculino,3.0,CrossFit,78.1,234.3,262.14,Sim,37.4,27.1,2024-06-24,Ativa
 43,Feminino,7.0,Musculação,97.2,680.4,80.93,Sim,35.0,19.4,2023-09-20,Ativa
 19,Outro,1.0,CrossFit,108.3,108.3,191.02,Não,28.5,11.2,2020-11-07,Ativa
 39,Feminino,6.0,Cardio,86.7,520.2,198.92,Sim,29.2,36.6,2023-05-18,Ativa
 27,Masculino,3.0,Yoga,94.3,282.9,190.61,Sim,28.9,16.2,2021-03-14,Ativa
-54,Outro,7.0,Natacao,101.6,711.2,165.03,Não,31.2,35.3,2021-01-14,Ativa
+54,Outro,7.0,Natação,101.6,711.2,165.03,Não,31.2,35.3,2021-01-14,Ativa
 64,Outro,0.0,Yoga,117.0,0.0,262.3,Não,13.5,12.8,2024-10-11,Sedentária
 56,Feminino,7.0,Natação,36.2,253.4,182.89,Não,35.7,18.1,2022-09-18,Ativa
 31,Outro,4.0,Yoga,89.2,356.8,96.13,Não,26.5,37.6,2020-07-12,Ativa
 26,Masculino,6.0,Futebol,37.1,222.6,105.45,Sim,28.6,15.5,2023-11-17,Ativa
 41,Feminino,7.0,Cardio,76.5,535.5,226.43,Sim,27.8,32.5,2020-09-02,Ativa
 63,Feminino,2.0,Natação,87.0,174.0,85.63,Sim,29.8,27.7,2023-09-15,Ativa
-32,Masculino,0.0,Fut,110.5,0.0,56.71,Sim,34.0,34.4,2021-06-13,Sedentária
-58,Outro,6.0,Swimming,38.4,230.4,239.67,Sim,34.6,12.6,2023-12-11,Ativa
-40,Outro,1.0,Fut,37.4,37.4,84.98,Não,15.3,22.0,2024-08-27,Ativa
+32,Masculino,0.0,Futebol,110.5,0.0,56.71,Sim,34.0,34.4,2021-06-13,Sedentária
+58,Outro,6.0,Natação,38.4,230.4,239.67,Sim,34.6,12.6,2023-12-11,Ativa
+40,Outro,1.0,Futebol,37.4,37.4,84.98,Não,15.3,22.0,2024-08-27,Ativa
 58,Masculino,5.0,Musculação,29.6,148.0,162.53,Não,24.3,36.5,2024-05-15,Ativa
 34,Outro,7.0,Natação,77.8,544.6,269.11,Não,31.3,30.4,2022-01-06,Ativa
 41,Outro,1.0,Yoga,100.2,100.2,133.51,Sim,23.2,27.7,2025-06-05,Ativa
@@ -949,7 +949,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 42,Feminino,2.0,Musculação,70.55,203.5,153.54,Sim,10.4,32.8,2025-01-31,Ativa
 35,Masculino,4.0,CrossFit,48.9,203.5,186.68,Sim,24.8,23.3,2021-12-29,Sedentária
 57,Masculino,1.0,CrossFit,61.4,61.4,127.63,Sim,31.7,15.0,2022-04-12,Ativa
-54,Feminino,4.0,Natacao,59.3,203.5,59.63,Não,27.1,26.3,2024-01-07,Sedentária
+54,Feminino,4.0,Natação,59.3,203.5,59.63,Não,27.1,26.3,2024-01-07,Sedentária
 58,Masculino,0.0,Yoga,34.4,0.0,162.48,Não,32.0,27.1,2024-07-03,Sedentária
 30,Masculino,3.0,Futebol,88.2,264.6,147.92,Não,20.6,19.4,2021-01-24,Ativa
 44,Masculino,0.0,Futebol,81.5,0.0,147.51,Não,16.2,10.7,2024-09-12,Sedentária
@@ -987,7 +987,7 @@ idade,sexo,frequencia_semanal_treino,tipo_atividade,tempo_medio_exercicio,minuto
 61,Feminino,7.0,Cardio,117.5,822.5,218.16,Não,37.7,12.3,2024-02-11,Ativa
 56,Outro,2.0,CrossFit,117.9,235.8,293.55,Não,36.4,36.1,2021-07-29,Ativa
 32,Masculino,2.0,Natação,52.3,104.6,286.83,Não,26.8,10.6,2021-01-24,Ativa
-37,Outro,0.0,Swimming,44.9,0.0,185.78,Sim,39.0,21.0,2023-11-12,Sedentária
+37,Outro,0.0,Natação,44.9,0.0,185.78,Sim,39.0,21.0,2023-11-12,Sedentária
 63,Outro,7.0,Futebol,70.55,203.5,63.68,Sim,17.4,19.4,2022-06-01,Ativa
 46,Masculino,6.0,Yoga,70.55,203.5,91.6,Não,34.5,32.1,2024-04-23,Ativa
 37,Outro,3.0,CrossFit,50.0,150.0,150.92,Sim,19.9,20.2,2024-02-09,Ativa

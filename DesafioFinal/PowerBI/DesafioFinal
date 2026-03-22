@@ -1,0 +1,74 @@
+ANÁLISE EXPLORATÓRIA E MACHINE LEARNING — CONCLUSÕES DO PROJETO
+
+ 
+CONTEXTO
+
+O dataset contém 1000 registros de alunos de uma academia, com informações
+sobre frequência de treino, tipo de atividade, plano, PGC e estado físico.
+O objetivo principal foi classificar se um aluno é Ativo ou Sedentário.
+ 
+ 
+1. PERFIL GERAL DOS ALUNOS
+
+- A maioria dos alunos treina cerca de 4 vezes por semana, com sessões
+  de aproximadamente 70 minutos, totalizando ~200 minutos semanais.
+- Yoga é a modalidade mais popular, seguida de Cardio e CrossFit.
+  Natação é a menos praticada, possivelmente por exigir infraestrutura
+  específica (piscina) que pode ser menos acessível.
+- 51,4% dos alunos possuem acompanhamento nutricional, o que indica
+  uma base de clientes com interesse em saúde de forma mais ampla,
+  não apenas no treino.
+ 
+ 
+2. PREÇO DO PLANO POR TIPO DE ATIVIDADE
+
+- Futebol e Yoga apresentam a maior média de preço de plano, enquanto
+  Musculação e Cardio têm as menores médias.
+- Isso pode indicar que modalidades com turmas menores ou instrutores
+  mais especializados tendem a ter planos mais caros, enquanto
+  modalidades mais populares e de maior volume têm preços mais acessíveis
+  para atrair mais alunos.
+ 
+ 
+3. FREQUÊNCIA E VOLUME DE TREINO
+
+- A correlação de 0.73 entre frequência semanal e minutos totais confirma
+  que treinar mais vezes é o principal fator para acumular mais volume,
+  mais do que aumentar a duração de cada sessão (correlação de 0.43).
+- Isso sugere que incentivar os alunos a treinar com mais frequência
+  é mais eficaz do que prolongar as sessões individuais.
+ 
+ 
+4. EVOLUÇÃO DO PGC
+
+- Alunos que começaram com PGC mais alto tenderam a ter maior evolução
+  (correlação de 0.70 entre primeiro_PGC e evolucao_pgc).
+- Alunos que terminaram com PGC mais baixo naturalmente tiveram maior
+  evolução (correlação de -0.69 entre ultimo_PGC e evolucao_pgc).
+- Isso indica que alunos com maior percentual de gordura inicial têm
+  mais espaço para evoluir, o que é esperado fisiologicamente.
+ 
+ 
+5. CLASSIFICAÇÃO ATIVO vs SEDENTÁRIO
+
+- As features mais correlacionadas com o target foram frequencia_semanal_treino
+  (0.48) e minutos_totais_semana (0.42), confirmando que o volume de
+  treino é o principal fator para classificar um aluno como ativo.
+- Features como idade, preco_plano e tipo de atividade tiveram correlação
+  próxima de zero com o target, indicando que não são bons preditores
+  do nível de atividade do aluno.
+- A conclusão prática é que a academia pode identificar alunos em risco
+  de se tornarem sedentários monitorando a queda na frequência semanal
+  de treino, atuando preventivamente com campanhas de reengajamento.
+ 
+ 
+6. QUALIDADE DOS DADOS
+
+- As colunas frequencia_semanal_treino, tempo_medio_exercicio e
+  minutos_totais_semana tinham valores nulos (entre 5% e 10% dos registros),
+  todos preenchidos com a mediana por conta da assimetria nas distribuições.
+- A coluna minutos_totais_semana apresentou outliers acima de 800 minutos,
+  representando alunos com rotina de treino muito intensa mas válida,
+  tratados pelo limite do IQR.
+- No geral, o dataset apresentou boa qualidade após o tratamento,
+  com distribuições coerentes com o contexto de uma academia.
